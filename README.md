@@ -1,6 +1,7 @@
 ## 开发
 
 ```bash
+```
 自建商城：http://code.deyinfo.com/
 
 # 安装依赖
