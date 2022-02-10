@@ -43,7 +43,7 @@
     "fuse.js": "3.4.4",
     "js-cookie": "2.2.0",
     "jsencrypt": "3.0.0-rc.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "normalize.css": "7.0.0",
     "nprogress": "0.2.0",
     "path-to-regexp": "2.4.0",
